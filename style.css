@@ -110,12 +110,12 @@ button span {
 
 .on {
     visibility: visible;
-    transition-delay: .2s;
+    transition-delay: .3s;
 }
 
 .sarwan {
     visibility: visible;
-    transition-delay: .4s;
+    transition-delay: .8s;
 }
 
 @media screen and (max-width:1200px) {
@@ -265,7 +265,7 @@ button span {
         text-align: left;
         font-family: monospace;
         width: 10px;
-    }
+    }bi
 
     .heading {
         position: absolute;
