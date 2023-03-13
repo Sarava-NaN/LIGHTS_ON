@@ -110,12 +110,12 @@ button span {
 
 .on {
     visibility: visible;
-    transition-delay: .3s;
+    transition-delay: .5s;
 }
 
 .sarwan {
     visibility: visible;
-    transition-delay: .8s;
+    transition-delay: .5s;
 }
 
 @media screen and (max-width:1200px) {
